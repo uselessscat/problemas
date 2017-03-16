@@ -1,9 +1,9 @@
-##Problema
-###Resumen
+## Problema
+### Resumen
 
 Este repositorio contiene problemas de olimpiadas informáticas de distintas fuentes.
 
-###Estructura de directorios
+### Estructura de directorios
 
 En general la estructura del repositorio es la siguiente:
 
@@ -11,11 +11,11 @@ En general la estructura del repositorio es la siguiente:
   * Fecha o subcategoría [Los niveles que sean necesarios]
     * Problemas ( __\*.doc | \*.docx | \*.pdf | etc.__ )
 
-###Pruebas
+### Pruebas
 
 Algunos problemas poseen ejemplos de entrada para validar las soluciones.
 
-###Enlaces externos
+### Enlaces externos
 
 Para evitar que mis soluciones [eventualmente] queden sin problema asociado, subo los documentos originales a este repositorio. Estos documentos pertenecen a sus respectivos(as) dueños o instituciones.
 
